@@ -1,0 +1,3 @@
+FX Pricing Model - initial draft
+add vol surface calculation
+add delta hedging logic
